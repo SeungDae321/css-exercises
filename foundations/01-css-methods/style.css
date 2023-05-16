@@ -1,0 +1,17 @@
+div{
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  p{
+    color: white;
+    background-color: green;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  button{
+    background-color: orange;
+  }
