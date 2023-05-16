@@ -1,0 +1,18 @@
+.class{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.cooler{
+    font-size:24px;
+}
+
+#ID{
+    color: blue;
+    font-size: 36px;
+}
+
+#anotherID{
+    font-weight: 700;
+    font-size:24px;
+    background-color: lightgreen;
+}
